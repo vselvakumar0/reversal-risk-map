@@ -1,0 +1,71 @@
+{
+  "note": "Locations are approximate points, not project boundaries. Check every entry against its registry before publishing. buffer_pct is the share of credits the project sets aside in the registry buffer pool: fill it in from the project's own risk report. region is the id of the state or province in data/regions.geojson.",
+  "projects": [
+    {
+      "name": "Mombak reforestation",
+      "pathway": "ARR",
+      "registry": "Verra",
+      "registry_id": null,
+      "region": "BRA-594",
+      "lat": -2.05,
+      "lon": -47.55,
+      "buffer_pct": null,
+      "verified": false
+    },
+    {
+      "name": "TIST smallholder tree planting",
+      "pathway": "ARR",
+      "registry": "Verra",
+      "registry_id": null,
+      "region": "KEN-889",
+      "lat": 0.05,
+      "lon": 37.65,
+      "buffer_pct": null,
+      "verified": false
+    },
+    {
+      "name": "Colville IFM",
+      "pathway": "IFM",
+      "registry": "ACR",
+      "registry_id": "255",
+      "region": "USA-3519",
+      "lat": 48.2,
+      "lon": -118.9,
+      "buffer_pct": null,
+      "verified": false
+    },
+    {
+      "name": "Darkwoods Forest Carbon Project",
+      "pathway": "IFM",
+      "registry": "Verra",
+      "registry_id": "607",
+      "region": "CAN-633",
+      "lat": 49.3,
+      "lon": -116.9,
+      "buffer_pct": null,
+      "verified": false
+    },
+    {
+      "name": "Delta Blue Carbon 1",
+      "pathway": "Mangroves",
+      "registry": "Verra",
+      "registry_id": "2250",
+      "region": "PAK-1114",
+      "lat": 24.1,
+      "lon": 67.6,
+      "buffer_pct": null,
+      "verified": false
+    },
+    {
+      "name": "Mikoko Pamoja",
+      "pathway": "Mangroves",
+      "registry": "Plan Vivo",
+      "registry_id": null,
+      "region": "KEN-1193",
+      "lat": -4.42,
+      "lon": 39.51,
+      "buffer_pct": null,
+      "verified": false
+    }
+  ]
+}
